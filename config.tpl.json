@@ -1,0 +1,7 @@
+{
+    "url": "http://[magentoapplication]/rest",
+    "consumerKey": "[xxxxxxxxxxxxxxxxxxxxxxx]",
+    "consumerSecret": "[xxxxxxxxxxxxxxxxxxxxxxx]",
+    "accessToken": "[xxxxxxxxxxxxxxxxxxxxxxx]",
+    "accessTokenSecret": "[xxxxxxxxxxxxxxxxxxxxxxx]"
+}
