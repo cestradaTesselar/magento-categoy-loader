@@ -13,18 +13,3 @@ Categories.map(cat => client.categories.create({
         "includeInMenu": true,
     }
 }).then(res => console.log(res)))
-
-// for (let i = 0; i < Categories.length; i++) {
-
-//     let newCategory = {
-//         category: {
-//             parentId: 4,
-//             name: Categories[i],
-//             isActive: true,
-//             includeInMenu: true,
-//         }
-//     }
-
-//     client.categories.create(newCategory).then(result => console.log(result))
-// }
-
